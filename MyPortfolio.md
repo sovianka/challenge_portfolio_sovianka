@@ -9,6 +9,8 @@ My name is Daria, currently I am IT recruiter with financial background. I start
 
 test cases [https://drive.google.com/drive/folders/1mFNOGGAMo9r9LMjWnfXzj-CrtOHzzoyf?usp=share_link](https://docs.google.com/document/d/1NJHXM8ju7QdgezoRL7yCXWH7s8VNGCnmRB92K8qQPYo/edit)
 
+test cases https://docs.google.com/document/d/1LKqK6vqSut_CEHVt4klLJ736L9fAWHyKUdm3ru3btAI/edit
+
 👩‍🎓 **Courses:** 
 - DARE IT - Manual Testing
 - Szkolenie z programowania dla początkujących rekruterów IT
