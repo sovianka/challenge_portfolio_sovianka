@@ -2,6 +2,7 @@
 
 
 ### **TASK 1**
+
 **Subtask 1**
 
 6 punktów
@@ -114,8 +115,8 @@ operatory / zapytania jakich się nauczyłam:
 
 **Subtask 3**
 1. 
-![image](https://user-images.githubusercontent.com/92442110/205516056-6f7f00de-ec5a-4520-8351-a996b48ebe86.png)
 
+![image](https://user-images.githubusercontent.com/92442110/205516056-6f7f00de-ec5a-4520-8351-a996b48ebe86.png)
 
 2. 
 ![image](https://user-images.githubusercontent.com/92442110/205512075-6a6f2f6e-ecff-404a-9f1f-d70e2621daac.png)
