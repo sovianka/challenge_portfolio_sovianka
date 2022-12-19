@@ -57,7 +57,7 @@ Wyszukiwarka działa kiedy wpisuję tylko imię gracza "Dominik" ale wpisując j
 ### **TASK 2**
 **Subtask 1**
 
-[https://docs.google.com/document/d/1LKqK6vqSut_CEHVt4klLJ736L9fAWHyKUdm3ru3btAI/edit?usp=sharing](url)
+https://docs.google.com/document/d/1LKqK6vqSut_CEHVt4klLJ736L9fAWHyKUdm3ru3btAI/edit?usp=sharing
 
 **Subtask 2**
 
