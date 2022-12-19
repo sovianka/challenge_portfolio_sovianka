@@ -3,6 +3,7 @@
 
 ### **TASK 1**
 **Subtask 1**
+
 6 punktów
 
 **Subtask 3**
@@ -55,25 +56,31 @@ Wyszukiwarka działa kiedy wpisuję tylko imię gracza "Dominik" ale wpisując j
 
 ### **TASK 2**
 **Subtask 1**
+
 [https://docs.google.com/document/d/1LKqK6vqSut_CEHVt4klLJ736L9fAWHyKUdm3ru3btAI/edit?usp=sharing](url)
 
 **Subtask 2**
+
 [https://docs.google.com/document/d/1NJHXM8ju7QdgezoRL7yCXWH7s8VNGCnmRB92K8qQPYo/edit?usp=sharing](url)
 
 **Subtask 3**
+
 [https://docs.google.com/document/d/1KuG4kuk1Muq1KT7Ve6L-srmbY9_5QrV8iGE9lCi4emU/edit?usp=sharing](url)
 
 ### **TASK 3**
 
 **Subtask 2**
+
 [https://docs.google.com/document/d/1kqyJjC_2v4Zq992lZh423-lTehyv0QinL8KdZxX8XKs/edit?usp=sharing](url)
 
 **Subtask 3**
+
 [https://docs.google.com/document/d/1sKK9To9Fta0B4sqS1lVB1p24ve7JvX8dZ6-yF_zM87s/edit?usp=sharing](url)
 
 ### **TASK 4**
 
 **Subtask 2**
+
 [https://docs.google.com/document/d/1fVkh10kqCvKddNdvJl9MZMAW_PpR05EqXPj9hk6xGEA/edit?usp=sharing](url)
 
 **Subtask 3**
