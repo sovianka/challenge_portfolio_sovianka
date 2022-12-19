@@ -30,7 +30,7 @@ https://docs.google.com/document/d/1fVkh10kqCvKddNdvJl9MZMAW_PpR05EqXPj9hk6xGEA/
 - reporting of bugs
 - basic of SQL
 
-💻**Tools:**
+💻 **Tools:**
 GitHub, Xampp, Slack, Jira, SQL
 
 **IT groups:**
