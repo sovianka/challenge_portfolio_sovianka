@@ -17,6 +17,8 @@ https://docs.google.com/document/d/1kqyJjC_2v4Zq992lZh423-lTehyv0QinL8KdZxX8XKs/
 reports 
 https://docs.google.com/document/d/1sKK9To9Fta0B4sqS1lVB1p24ve7JvX8dZ6-yF_zM87s/edit
 
+https://docs.google.com/document/d/1fVkh10kqCvKddNdvJl9MZMAW_PpR05EqXPj9hk6xGEA/edit
+
 👩‍🎓 **Courses:** 
 - DARE IT - Manual Testing
 - Szkolenie z programowania dla początkujących rekruterów IT
