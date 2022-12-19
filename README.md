@@ -114,35 +114,45 @@ operatory / zapytania jakich się nauczyłam:
 ![image](https://user-images.githubusercontent.com/92442110/205516670-a1cce315-a82f-429d-b1c0-bd3e630d7bab.png)
 
 **Subtask 3**
+
 1. 
 
 ![image](https://user-images.githubusercontent.com/92442110/205516056-6f7f00de-ec5a-4520-8351-a996b48ebe86.png)
 
 2. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205512075-6a6f2f6e-ecff-404a-9f1f-d70e2621daac.png)
 
 3. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205516486-76fcf50b-707f-4a05-9a1d-d5c2ff688d33.png)
 
 4. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205688907-b299da9f-758d-435b-b424-d1bbd180be07.png)
 
 5. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205691086-f1b6f735-a094-4745-a64b-055da12bcc85.png)
 
 6. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205695360-af8e2a85-6b6c-48c0-8608-f1f06b16efe9.png)
 
 7. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205696084-0e48beac-ee65-475c-a754-813b8807592b.png)
 
 8. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205698652-29f9864e-5b1c-4be0-8083-ccb1e25e2a19.png)
 
 9. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205700995-d2db4abd-bbaa-4afb-a618-98224d64b05c.png)
 
 10. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205701757-f8b74ded-3b96-4f03-9a4a-dea217055949.png)
 
 
@@ -151,19 +161,23 @@ operatory / zapytania jakich się nauczyłam:
 **Subtask 1**
 
 11. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205707327-17ed476e-2dcd-48fa-a10a-e64a44deb261.png)
 
 ![image](https://user-images.githubusercontent.com/92442110/205707392-1d762174-33c7-495a-8520-a8a30bcf3461.png)
 
 12.
+
 ![image](https://user-images.githubusercontent.com/92442110/205719373-d74d798a-429c-4a1c-818e-04334b0255bd.png)
 
 13.
+
 ![image](https://user-images.githubusercontent.com/92442110/205710425-84ca1764-9f69-4d18-9cea-6f247cc8a250.png)
 
 ![image](https://user-images.githubusercontent.com/92442110/205710504-c1855f65-55f3-4a00-a9e7-71b3847454dc.png)
 
 14. 
+
 ![image](https://user-images.githubusercontent.com/92442110/205999485-73060216-028e-4a7d-b1ea-b0be434c300f.png)
 
 ![image](https://user-images.githubusercontent.com/92442110/205999553-4241702b-731d-4eda-b370-f6b766004bca.png)
