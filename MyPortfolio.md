@@ -1,7 +1,5 @@
 About me
 
-
-
 ### **My Portfolio**
 **Hi!**
 
