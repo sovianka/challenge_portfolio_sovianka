@@ -24,6 +24,12 @@ https://docs.google.com/document/d/1fVkh10kqCvKddNdvJl9MZMAW_PpR05EqXPj9hk6xGEA/
 - Szkolenie z programowania dla początkujących rekruterów IT
 - Podstawy manualnego testowania oprogramowania
 
+👉 **Skills:**
+- manual testing,
+- writing test cases
+- reporting of bugs
+- basic of SQL
+
 💻**Tools:**
 GitHub, Xampp, Slack, Jira, SQL
 
